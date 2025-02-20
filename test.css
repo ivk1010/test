@@ -1,0 +1,24 @@
+
+@font-face {
+    font-family: 'idk';
+   
+    src: url("./KingsguardCalligraphy_PERSONAL_USE_ONLY.otf") format("opentype");
+}
+
+body{
+    background: url('fd_bg.png');
+    background-size:     cover;                     
+    background-repeat:   no-repeat;
+    height: 100svh;
+    
+}
+.a{
+    font-family: "idk";
+}
+
+.f{color:red}
+.d{color:red}
+
+.tbar{
+    text-align: center;
+}
